@@ -1,29 +1,21 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww28600\viewh18000\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+#EE569 Homework Assignment #3
+#Date: March 28, 2018
+#Name: Deepika Kanade
+#ID: 5369-2886-14
+#Email: kanade@usc.edu
 
-\f0\fs28 \cf0 \'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
-#EE569 Homework Assignment #3\
-#Date: March 28, 2018\
-#Name: Deepika Kanade\
-#ID: 5369-2886-14\
-#Email: kanade@usc.edu\
-\
-\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
-\
-#SYSTEM CONFIGURATION ON WHICH THIS CODE WAS RUN:\
-OS: Mac OS 10.13.2 64-bit\
-Software Used: Xcode Version 9.2 (9C40b)\
-\
-\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
-\
-# Assignment3_Q1a (Steps to run on command line)\
-1. Open command prompt\
-2. Change Directory using cd to the folder which has main.cpp\
-3. Execute the following commands\
-	$ g++ -o main main.cpp\
-	$ ./main [input image path 1] [input image path 2]  [input image path 3]  [input image path 4]  [input image path 5]  [input image path 6]  [input image path 7]  [input image path 8]  [input image path 9]  [input image path 10]  [input image path 11]  [input image path 12] [bytesPerPixel] [image Width] [image Height] [output image path] [path for text file]\
-}
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+#SYSTEM CONFIGURATION ON WHICH THIS CODE WAS RUN:
+OS: Mac OS 10.13.2 64-bit
+Software Used: Xcode Version 9.2 (9C40b)
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+# Assignment3_Q1a (Steps to run on command line)
+1. Open command prompt
+2. Change Directory using cd to the folder which has main.cpp
+3. Execute the following commands
+	$ g++ -o main main.cpp
+	$ ./main [input image path 1] [input image path 2]  [input image path 3]  [input image path 4]  [input image path 5]  [input image path 6]  [input image path 7]  [input image path 8]  [input image path 9]  [input image path 10]  [input image path 11]  [input image path 12] [bytesPerPixel] [image Width] [image Height] [output image path] [path for text file]
