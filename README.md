@@ -63,6 +63,7 @@ c. Skeletonization
 d. Counting game
 
 --------------------------HW3---------------------------
+
 Q1. Texture Analysis and Segmentation
 
 a. Texture Classification 
