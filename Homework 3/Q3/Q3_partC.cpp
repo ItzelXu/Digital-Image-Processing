@@ -131,7 +131,7 @@ int main( int argc, char** argv )
     BGOWORDS.add(descriptors_3);
     BGOWORDS.add(descriptors_4);
 
-    Mat vocabulary = BGOWORDS.cluster(); //k means clustering UNSURE if it is default CHECK!
+    Mat vocabulary = BGOWORDS.cluster(); //k means clustering 
 
     //in vocabulary each row will be a descriptor belonging to that image number
 
